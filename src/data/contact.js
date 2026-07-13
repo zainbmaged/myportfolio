@@ -5,7 +5,7 @@ const contact = {
 
   linkedin: "https://www.linkedin.com/in/zainb-maged-arafa-zahran/",
 
-  cv: "/Zainb_Zahran.pdf",
+  cv: "Zainb_Zahran.pdf",
 
   location: "Cairo, Egypt"
 };
